@@ -14,6 +14,7 @@
 //= require jquery_ujs
 //= require bootstrap.min
 //= require custom
+//= require main
 //= require jquery.hoverdir
 //= require jquery.hoverex.min
 //= require jquery.isotope.min
