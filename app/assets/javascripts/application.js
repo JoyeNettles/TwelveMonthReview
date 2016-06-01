@@ -18,7 +18,9 @@
 //= require jquery.hoverex.min
 //= require jquery.isotope.min
 //= require jquery.prettyPhoto
+//= require jquery.easing.min
 //= require retina-1.1.0.js
 //= require ie10-viewport-bug-workaround
 //= require turbolinks
+//= require smoothscroll
 //= require_tree .
