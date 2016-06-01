@@ -20,7 +20,6 @@ JUMBOTRON
   font-size: 4vh;
 }
 
-
 /**
 AGENDA
 **/
@@ -52,4 +51,18 @@ TIMELINE
 
 #timeline h2{
   font-weight: 500;
+}
+
+/**
+WINS
+**/
+#wins{
+  background: #22A7F0;
+  color:white;
+}
+
+@media(min-width:768px) {
+  #wins{
+    background: mediumpurple;
+  }
 }

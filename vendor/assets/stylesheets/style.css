@@ -347,6 +347,12 @@ input {
 	background-color: #22A7F0;
 }
 
+@media(min-width:768px) {
+	#f{
+		background: mediumvioletred;
+	}
+}
+
 #f i {
 	margin-right: 30px;
 	font-size: 35px;
