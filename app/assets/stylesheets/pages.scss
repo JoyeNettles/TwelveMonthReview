@@ -1,3 +1,6 @@
+/**
+TEXT
+**/
 .light {
   font-weight: 400;
 }
@@ -6,10 +9,31 @@
   color: white;
 }
 
+h1{ font-size: 5.5em}
+h2{ font-size: 3em}
+h3{ font-size: 1.25em}
+
+/**
+JUMBOTRON
+**/
 .btn{
   font-size: 4vh;
 }
 
-h1{ font-size: 5.5em}
-h2{ font-size: 3em}
-h3{ font-size: 1.25em}
+
+/**
+AGENDA
+**/
+#agenda{
+  height:100vh;
+  padding: 10vh;
+}
+
+#agenda dt{
+  font-size: 1.5em;
+}
+
+#agenda dd{
+  font-size: 2.5vmin;
+  font-weight: 100;
+}
