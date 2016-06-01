@@ -34,3 +34,7 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
   }
 });
+
+$( window ).resize(function() {
+    $('.navbar').css('width', $(window).width());
+});
