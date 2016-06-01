@@ -201,8 +201,8 @@ input {
 
 /* HEADER SECTION */
 #header-section {
-	/*background: url(../img/header.jpg) no-repeat center top;*/
-	background-color: #696E74;
+	background: url('header-blue.png') no-repeat center top;
+	background-color: #00b3fe;
 	padding-top: 15vh;
 	background-attachment: relative;
 	background-position: center center;
@@ -220,6 +220,13 @@ input {
     background-size: cover;
     color: white;
 
+}
+
+@media(min-width:768px) {
+	#header-section {
+		background: url('chicago-purple.png') no-repeat center top;
+		background-color: #00b3fe;
+	}
 }
 
 #header-section .logo {
