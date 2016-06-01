@@ -24,4 +24,6 @@
 //= require ie10-viewport-bug-workaround
 //= require turbolinks
 //= require smoothscroll
+//= require timeline/main
+//= require timeline/modernizr
 //= require_tree .

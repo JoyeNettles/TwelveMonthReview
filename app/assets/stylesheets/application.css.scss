@@ -3,10 +3,15 @@
 
 @import "font-awesome";
 
+// Layout
 @import "hoverex-all";
 @import "ionicons.min";
 @import "prettyPhoto";
 @import "style";
+
+// Timeline
+@import "timeline/style";
+@import "timeline/reset";
 
 @import "navbar";
 @import "pages";
