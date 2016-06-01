@@ -12,5 +12,13 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require bootstrap.min
+//= require custom
+//= require jquery.hoverdir
+//= require jquery.hoverex.min
+//= require jquery.isotope.min
+//= require jquery.prettyPhoto
+//= require retina-1.1.0.js
+//= require ie10-viewport-bug-workaround
 //= require turbolinks
 //= require_tree .
