@@ -29,6 +29,10 @@ AGENDA
   padding: 10vh;
 }
 
+#agenda .row{
+  margin-left: -60px;
+}
+
 #agenda dt{
   font-size: 1.1em;
 }
@@ -36,4 +40,11 @@ AGENDA
 #agenda dd{
   font-size: 2.5vmin;
   font-weight: 100;
+}
+
+/**
+TIMELINE
+**/
+#timeline h2{
+  font-weight: 500;
 }
