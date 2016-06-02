@@ -9,7 +9,7 @@ TEXT
   color: white;
 }
 
-h1{ font-size: 5.5em}
+h1{ font-size: 6.5em}
 h2{ font-size: 3em}
 h3{ font-size: 1.25em}
 
@@ -57,6 +57,7 @@ TIMELINE
 WINS
 **/
 #wins{
+  text-transform: lowercase;
   background: #22A7F0;
   color:white;
 }
@@ -71,6 +72,31 @@ WINS
   background: gold;
 }
 
+#dark-grey-background{
+  background: darkgray;
+  font-weight: 800;
+  color: ghostwhite;
+  text-align: center;
+}
+
+#win-1{
+  width: 100%;
+  padding: 50px 0;
+  color: #fff;
+  background: url(agility-meeting.png) no-repeat center center scroll;
+  background-color: gold;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-transform: lowercase;
+}
+
+#win-1 h1{
+  padding-left: 2vh;
+}
+
 #win-1 h2{
   padding-left: 2vh;
+
 }
