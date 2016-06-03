@@ -135,3 +135,12 @@ CHALLENGES
   background: darkmagenta;
   color:white;
 }
+
+#growth-intro .full-screen-background-image{
+  //background: url(caribbean-world.png) no-repeat center center scroll;
+  background: greenyellow;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
