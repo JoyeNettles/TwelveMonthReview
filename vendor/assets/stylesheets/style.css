@@ -200,7 +200,7 @@ input {
 }
 
 /* HEADER SECTION */
-.header-section {
+.full-screen-background-image {
 	background-color: mediumpurple;
 	background: url('header-blue.png') no-repeat center top;
 	color: white;
@@ -228,7 +228,7 @@ input {
 }
 
 @media(min-width:768px) {
-	.header-section {
+	.full-screen-background-image {
 		background-color: #00b3fe;
 		background: url('chicago-purple.png') no-repeat center top;
 		-webkit-background-size: cover;
