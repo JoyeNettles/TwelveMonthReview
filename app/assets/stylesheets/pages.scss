@@ -68,6 +68,10 @@ WINS
   }
 }
 
+#wins h2, h1{
+  text-transform: lowercase;
+}
+
 #gold-background {
   background: gold;
 }
@@ -80,16 +84,14 @@ WINS
 }
 
 #win-1{
+  background: url(agility-meeting.png) no-repeat center center scroll;
   width: 100%;
   padding: 50px 0;
   color: #fff;
-  background: url(agility-meeting.png) no-repeat center center scroll;
-  background-color: gold;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  text-transform: lowercase;
 }
 
 #win-1 h1{
@@ -99,4 +101,28 @@ WINS
 #win-1 h2{
   padding-left: 2vh;
 
+}
+
+#cyd-tone-background{
+  width: 50%;
+  padding: 50px 0;
+  color: #fff;
+  background: url(cyd-tone.png) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 35vh;
+}
+
+#cw-background{
+  width: 50%;
+  padding: 50px 0;
+  color: #fff;
+  background: url(caribbean-world.png) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 35vh;
 }
