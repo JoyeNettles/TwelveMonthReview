@@ -316,7 +316,8 @@ input {
 
 /* CONTACT SEPARATOR */
 #sep {
-	background: url(../img/sep.jpg) no-repeat center top;
+	/*background: url(../img/sep.jpg) no-repeat center top;*/
+	background: grey;
 	padding-top: 100px;
 	background-attachment: relative;
 	background-position: center center;
