@@ -17,6 +17,25 @@ h3{ font-size: 1.25em}
   text-align: left;
 }
 
+#chocolate-background{
+  background: chocolate;
+}
+
+#gold-background {
+  background: gold;
+}
+
+#dark-grey-background{
+  background: darkgray;
+  font-weight: 800;
+  color: ghostwhite;
+  text-align: center;
+}
+
+section{
+  height:100vh;
+}
+
 /**
 JUMBOTRON
 **/
@@ -72,20 +91,25 @@ WINS
   }
 }
 
+.quote-text{
+  font-size: 2em;
+  padding-left: 3vh;
+  padding-right: 3vh;
+  line-height: 1.25;
+}
+
+.quote-footer{
+  font-size: 2.15em;
+}
+
 #wins h2, h1{
   text-transform: lowercase;
 }
 
-#gold-background {
-  background: gold;
+.gif{
+  width: 100%;
 }
 
-#dark-grey-background{
-  background: darkgray;
-  font-weight: 800;
-  color: ghostwhite;
-  text-align: center;
-}
 
 #win-1{
   background: url(agility-meeting-yellow.png) no-repeat center center scroll;
@@ -105,6 +129,10 @@ WINS
 #win-1 h2{
   padding-left: 2vh;
 
+}
+
+#local-testing-background{
+  background: url(local-testing.gif) no-repeat center;
 }
 
 #cyd-tone-background{

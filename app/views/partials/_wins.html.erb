@@ -1,33 +1,47 @@
 <!--WINS-->
 <div id="wins">
-  <div class="container centered ptb">
+  <div class="row">
+  <div class="centered ptb">
     <h1>WINS</h1>
+    </div>
   </div>
 </div>
 
 <!--WIN ONE-->
-<div id="win-1">
-  <div class="container">
+  <div id="win-1">
     <div class="row ptb centered">
       <h2>Win One</h2>
       <h1>Effective Team Member</h1>
     </div>
   </div>
-</div>
-<div class="container">
   <div class="row">
-    <div class="col-md-8 ptb" id="dark-grey-background">
-      <h2>QUOTE</h2>
-    </div>
-    <div class="col-md-4">
-      <%= image_tag("laceys-note.png", :class => "img-responsive", loop: true) %>
+    <div class="ptb" id="chocolate-background">
+      <blockquote class="centered">
+        <p class="white-text quote-text">"It has been an absolute pleasure working with you...I would have never thought
+          that this was
+          your first assignment. You carried yourself very well. I have thought to myself several times while
+          observing you that one day you will be the CEO of some company. You’re very eager to learn and
+          assist when needed."</p>
+        <footer class="white-text quote-footer">Laurie Beaumont, <cite title="Source Title">Manheim Scrum Master</cite>
+        </footer>
+      </blockquote>
     </div>
   </div>
-  <div class="row">
-    <%= image_tag("local-testing.gif", :class => "img-responsive") %>
-    <p class="centered">Presenting our local testing setup to the clients.</p>
+<div class="row">
+  <%= image_tag("local-testing.gif", :class => "img-responsive gif") %>
+  <h3 class="centered">Presenting our local testing setup to the clients.</h3>
+</div>
+<div class="row">
+  <div class="col-md-6 frame">
+    <span class="helper"><%= image_tag("laceys-note.png", :class => "img-responsive") %></span>
+    <p class="centered">During our "firefighting" days, a note I received from my teammate asking for help.</p>
+  </div>
+  <div class="col-md-6">
+    <%= image_tag("target.png", :class => "img-responsive") %>
+    <p class="centered">Recognized by the team product owner after discovering a bug and awarded one of our "shout out" gift cards.</p>
   </div>
 </div>
+
 
 <!--WIN TWO-->
 <div id="win-2">
