@@ -117,7 +117,6 @@ WINS
 #wins h2, h1{
   text-transform: lowercase;
 }
-
 .gif{
   width: 100%;
 }
@@ -140,6 +139,15 @@ WINS
 #win-1 h2{
   padding-left: 2vh;
 
+}
+
+#win-2{
+  color: white;
+  background: url(tw-atl.png) no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 
 #local-testing-background{
@@ -175,7 +183,7 @@ WINS
 CHALLENGES
 **/
 #challenges{
-  background: darkmagenta;
+  background: url(local-testing.gif) no-repeat center;
   color:white;
 }
 
