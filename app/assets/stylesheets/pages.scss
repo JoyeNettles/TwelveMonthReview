@@ -47,11 +47,14 @@ h3{ font-size: 1.25em}
 #pink-background{
   background: hotpink;
 }
-
-.atl-activity-text{
+#cornflower-blue-background{
+ background: cornflowerblue;
+}
+.block-text {
   font-weight: 800;
   color: ghostwhite;
   text-align: center;
+  font-size: 0.55em;
 }
 
 /**
@@ -170,6 +173,10 @@ WINS
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+}
+
+.total-conference-text{
+  font-weight: 900;
 }
 
 #win-3{
