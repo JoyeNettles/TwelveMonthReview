@@ -35,9 +35,15 @@
   transition: background .3s ease-in-out;
 }
 
-@media(max-width: 991px) {
+@media(max-width: 768px) {
   .navbar-custom .nav li a {
-    font-size: 0.5vh;
+    font-size: 1.5vh;
+  }
+}
+
+@media(min-width: 768px) {
+  .navbar-custom .nav li a {
+    font-size: 0.5em;
   }
 }
 
