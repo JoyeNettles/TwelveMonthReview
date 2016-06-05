@@ -3,6 +3,12 @@ body{
   margin-right: -15px;
 }
 
+.center-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
 /**
 TEXT
 **/
@@ -190,6 +196,10 @@ WINS
 
 .conference-pic{
   height: 288px;
+}
+
+.jttw-image{
+  width:80%
 }
 
 #local-testing-background{
