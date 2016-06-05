@@ -205,8 +205,8 @@ CHALLENGES
 }
 
 #stacey .full-screen-background-image{
-  //background: url(caribbean-world.png) no-repeat center center scroll;
   background: plum;
+  //background: url(caribbean-world.png) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -214,12 +214,28 @@ CHALLENGES
 }
 
 #feedback .full-screen-background-image{
-  //background: url(caribbean-world.png) no-repeat center center scroll;
   background: purple;
+  //background: url(caribbean-world.png) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
 
+#sep{
+  background: url(end-blue.png) no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
 
+@media(min-width:768px) {
+  #sep {
+    background: url(end.png) no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+}
