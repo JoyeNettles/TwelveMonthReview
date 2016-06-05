@@ -32,10 +32,6 @@ h3{ font-size: 1.25em}
   text-align: center;
 }
 
-section{
-  height:100vh;
-}
-
 /**
 JUMBOTRON
 **/
@@ -73,7 +69,28 @@ TIMELINE
 }
 
 #timeline h2{
-  font-weight: 500;
+  font-weight: 300;
+}
+
+.cd-timeline-content h2{
+  font-size: 3em;
+  font-family: 'Poiret One', cursive;
+}
+
+.cd-timeline-content p{
+  font-size: 1.5em;
+}
+
+.cd-timeline-content  .cd-date {
+  font-family: 'Poiret One', cursive;
+  font-weight: 900;
+  font-size: 1.25em;
+}
+
+@media only screen and (min-width: 1170px) {
+  .cd-timeline-content  .cd-date{
+    font-size: 3rem;
+  }
 }
 
 /**
@@ -99,7 +116,7 @@ WINS
 }
 
 .quote-footer{
-  font-size: 2.15em;
+  font-size: 1em;
 }
 
 #wins h2, h1{
