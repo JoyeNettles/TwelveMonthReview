@@ -237,10 +237,6 @@ CHALLENGES
 
 @media(min-width:768px) {
   #sep {
-    background: url(end.png) no-repeat scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background: url(end.png) repeat scroll;
   }
 }
