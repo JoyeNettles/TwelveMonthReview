@@ -150,6 +150,15 @@ WINS
   -o-background-size: cover;
 }
 
+#win-3{
+  color: white;
+  background: url(presentation.png) no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
 #local-testing-background{
   background: url(local-testing.gif) no-repeat center;
 }
