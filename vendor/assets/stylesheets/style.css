@@ -64,6 +64,7 @@ body {
 .mtb2 { margin-top: 100px; margin-bottom: 100px;}
 .ptb {padding-top: 80px; padding-bottom: 80px;}
 .pb { padding-bottom: 80px;}
+.pt { padding-top: 80px;}
 
 .clear {
 	clear: both;
