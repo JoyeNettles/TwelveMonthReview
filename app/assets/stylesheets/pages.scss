@@ -243,12 +243,20 @@ CHALLENGES
   color:white;
 }
 
+//GROWTH
+
 #growth-intro .full-screen-background-image{
   background: url(baby-joye.png) no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+}
+
+#growth li{
+  margin-left: 5vh;
+  margin-right: 2vh;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 #stacey .full-screen-background-image{
@@ -282,3 +290,13 @@ CHALLENGES
     background: url(end.png) repeat scroll;
   }
 }
+
+.parent{
+  display: table;
+}
+
+.table-cell {
+  float: none;
+  display: table-cell;
+}
+
