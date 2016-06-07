@@ -3,14 +3,12 @@
 <head>
   <%= favicon_link_tag 'favicon.ico' %>
   <title>Joye's 12 Month Review :)</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
-  <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=320, height=device-height, target-densitydpi=medium-dpi" />
+  <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=320, height=device-height, target-densitydpi=medium-dpi"/>
 </head>
-<body id = "page-top">
-
-<%= yield %>
-
+<body id="page-top" class="body-padding">
+  <%= yield %>
 </body>
 </html>
