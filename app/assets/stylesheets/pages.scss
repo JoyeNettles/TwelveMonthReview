@@ -158,6 +158,8 @@ WINS
 
 #wins h2, h1{
   text-transform: lowercase;
+  padding-left: 2vh;
+  padding-right: 2vh;
 }
 .gif{
   width: 100%;
@@ -172,15 +174,6 @@ WINS
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-}
-
-#win-1 h1{
-  padding-left: 2vh;
-}
-
-#win-1 h2{
-  padding-left: 2vh;
-
 }
 
 #win-2{
