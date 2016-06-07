@@ -235,6 +235,12 @@ WINS
   height: 35vh;
 }
 
+@media(max-width:767px) {
+  #cw-background {
+    margin-top:3vh;
+  }
+
+}
 
 /**
 CHALLENGES
@@ -296,12 +302,13 @@ thead{
   }
 }
 
-.parent{
-  display: table;
-}
+@media(min-width:768px) {
+  .parent {
+    display: table;
+  }
 
-.table-cell {
-  float: none;
-  display: table-cell;
+  .table-cell {
+    float: none;
+    display: table-cell;
+  }
 }
-
