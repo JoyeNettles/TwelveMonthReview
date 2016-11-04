@@ -18749,7 +18749,7 @@ header h1 {
     background: #000;
   }
 }
-/* line 1, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 1, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 .body-padding {
   width: 100%;
   height: 100%;
@@ -18758,12 +18758,12 @@ header h1 {
   overflow-x: hidden;
 }
 
-/* line 10, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 10, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 .navbar {
   overflow: auto;
 }
 
-/* line 14, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 14, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 .center-image {
   display: block;
   margin-left: auto;
@@ -18773,92 +18773,92 @@ header h1 {
 /**
 TEXT
 **/
-/* line 23, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 23, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 .light {
   font-weight: 400;
 }
 
-/* line 27, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 27, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 .white-text {
   color: white;
 }
 
-/* line 31, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 31, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 h1 {
   font-size: 6.5em;
 }
 
-/* line 32, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 32, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 h2 {
   font-size: 3em;
 }
 
-/* line 33, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 33, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 h3 {
   font-size: 1.25em;
 }
 
-/* line 34, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 34, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 h4 {
   font-size: .75em;
 }
 
-/* line 36, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 36, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 .left-aligned {
   text-align: left;
 }
 
-/* line 40, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 40, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #chocolate-background {
   background: chocolate;
 }
 
-/* line 44, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 44, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #gold-background {
   background: gold;
 }
 
-/* line 48, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 48, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #dark-grey-background {
   background: darkgray;
 }
 
-/* line 52, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 52, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #jttw-navy-background {
   background: #2C3E50;
 }
 
-/* line 55, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 55, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #jttw-grey-background {
   background: darkgray;
 }
 
-/* line 59, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 59, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #indigo-background {
   background: indigo;
 }
 
-/* line 62, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 62, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #magenta-background {
   background: darkmagenta;
 }
 
-/* line 65, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 65, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #pink-background {
   background: hotpink;
 }
 
-/* line 68, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 68, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #cornflower-blue-background {
   background: cornflowerblue;
 }
 
-/* line 71, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 71, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #azure-background {
   background: azure;
 }
 
-/* line 74, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 74, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 .block-text {
   font-weight: 800;
   color: ghostwhite;
@@ -18869,7 +18869,7 @@ h4 {
 /**
 JUMBOTRON
 **/
-/* line 84, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 84, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 .btn {
   font-size: 4vh;
 }
@@ -18877,22 +18877,22 @@ JUMBOTRON
 /**
 AGENDA
 **/
-/* line 91, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 91, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #agenda {
   padding: 10vh;
 }
 
-/* line 95, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 95, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #agenda .row {
   margin-left: -60px;
 }
 
-/* line 99, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 99, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #agenda dt {
   font-size: 1.1em;
 }
 
-/* line 103, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 103, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #agenda dd {
   font-size: 2.5vmin;
   font-weight: 100;
@@ -18901,29 +18901,29 @@ AGENDA
 /**
 TIMELINE
 **/
-/* line 111, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 111, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #timeline {
   background: ghostwhite;
   padding: 5vh;
 }
 
-/* line 116, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 116, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #timeline h2 {
   font-weight: 300;
 }
 
-/* line 120, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 120, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 .cd-timeline-content h2 {
   font-size: 2em;
   font-family: 'Poiret One', cursive;
 }
 
-/* line 125, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 125, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 .cd-timeline-content p {
   font-size: 1.5em;
 }
 
-/* line 129, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 129, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 .cd-timeline-content .cd-date {
   font-family: 'Poiret One', cursive;
   font-weight: 900;
@@ -18931,7 +18931,7 @@ TIMELINE
 }
 
 @media only screen and (min-width: 1170px) {
-  /* line 136, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+  /* line 136, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
   .cd-timeline-content .cd-date {
     font-size: 3rem;
   }
@@ -18939,7 +18939,7 @@ TIMELINE
 /**
 WINS
 **/
-/* line 144, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 144, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #wins {
   text-transform: lowercase;
   color: white;
@@ -18947,7 +18947,7 @@ WINS
   background-size: cover;
 }
 
-/* line 151, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 151, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 .quote-text {
   font-size: 2em;
   padding-left: 3vh;
@@ -18955,24 +18955,24 @@ WINS
   line-height: 1.25;
 }
 
-/* line 158, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 158, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 .quote-footer {
   font-size: 1em;
 }
 
-/* line 162, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 162, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #wins h2, h1 {
   text-transform: lowercase;
   padding-left: 2vh;
   padding-right: 2vh;
 }
 
-/* line 167, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 167, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 .gif {
   width: 100%;
 }
 
-/* line 171, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 171, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #win-1 {
   background: url(agility-meeting-yellow.png) no-repeat center center scroll;
   width: 100%;
@@ -18982,7 +18982,7 @@ WINS
   -o-background-size: cover;
 }
 
-/* line 182, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 182, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #win-2 {
   color: white;
   background: url(presentation.png) no-repeat center;
@@ -18990,33 +18990,33 @@ WINS
   -o-background-size: cover;
 }
 
-/* line 191, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 191, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 .total-conference-text {
   font-weight: 900;
 }
 
-/* line 195, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 195, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #win-3 {
   color: white;
   background: url(jttw-globe.png) repeat center;
 }
 
-/* line 200, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 200, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 .conference-pic {
   height: 288px;
 }
 
-/* line 204, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 204, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 .jttw-image {
   width: 80%;
 }
 
-/* line 208, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 208, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #local-testing-background {
   background: url(local-testing.gif) no-repeat center;
 }
 
-/* line 212, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 212, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #cyd-tone-background {
   padding: 14vh 0;
   color: #fff;
@@ -19026,7 +19026,7 @@ WINS
   height: 35vh;
 }
 
-/* line 223, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 223, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #cw-background {
   padding: 14vh 0;
   color: #fff;
@@ -19037,7 +19037,7 @@ WINS
 }
 
 @media (max-width: 767px) {
-  /* line 235, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+  /* line 235, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
   #cw-background {
     margin-top: 3vh;
   }
@@ -19045,27 +19045,27 @@ WINS
 /**
 CHALLENGES
 **/
-/* line 244, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 244, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #challenges {
   background: url(airport.png) repeat center;
   color: white;
 }
 
-/* line 251, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 251, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 #growth-intro .full-screen-background-image {
   background: url(baby-joye.png) no-repeat center center scroll;
   background-size: cover;
   -o-background-size: cover;
 }
 
-/* line 259, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 259, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #growth li {
   margin-left: 5vh;
   margin-right: 2vh;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
-/* line 265, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 265, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #stacey .full-screen-background-image {
   background: plum;
   background: url(stacey.png) no-repeat center center scroll;
@@ -19073,23 +19073,23 @@ CHALLENGES
   -o-background-size: cover;
 }
 
-/* line 274, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 274, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #feedback .full-screen-background-image {
   background: firebrick;
 }
 
-/* line 278, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 278, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
 thead {
   background-color: #4CAF50;
   color: white;
 }
 
-/* line 283, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 283, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 .colored-row {
   background-color: whitesmoke;
 }
 
-/* line 287, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+/* line 287, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
 #sep {
   background: url(end-blue.png) no-repeat scroll;
   background-size: cover;
@@ -19097,18 +19097,18 @@ thead {
 }
 
 @media (min-width: 768px) {
-  /* line 296, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+  /* line 296, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
   #sep {
     background: url(end.png) repeat scroll;
   }
 }
 @media (min-width: 768px) {
-  /* line 302, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+  /* line 302, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scssth.scss */
   .parent {
     display: table;
   }
 
-  /* line 306, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/pages.scss */
+  /* line 306, /Users/jnettles/Documents/Developer/Rails/TwelveMonthReview/app/assets/stylesheets/twelve_monthe_month.scss */
   .table-cell {
     float: none;
     display: table-cell;
