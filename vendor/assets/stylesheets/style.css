@@ -224,6 +224,11 @@ input {
     background-size: cover;
 }
 
+#eighteen.full-screen-background-image {
+	background-color: mediumpurple;
+	/*background: url('baby-joye.png') no-repeat center top;*/
+}
+
 .header-body{
 	display: table-cell;
 	vertical-align: middle;
