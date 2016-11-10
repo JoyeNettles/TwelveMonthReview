@@ -5,7 +5,7 @@
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-main-collapse">
         <i class="fa fa-bars white-text"></i>
       </button>
-      <%= link_to "JOYE'S REVIEW", root_path, :class => 'navbar-brand smoothScroll' %>
+      <%= link_to "JOYE'S 18 MONTH REVIEW", root_path, :class => 'navbar-brand smoothScroll' %>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -16,22 +16,22 @@
           <a href="#page-top"></a>
         </li>
         <li>
-          <a class="smoothScroll" href="#wins">Wins</a>
+          <%= link_to 'Wins', eighteen_path(:anchor => 'wins'), :class => 'smoothScroll' %>
         </li>
         <li>
-          <a class="smoothScroll" href="#challenges">Challenges</a>
+          <%= link_to 'Challenges', eighteen_path(:anchor => 'challenges'), :class => 'smoothScroll' %>
         </li>
         <li>
-          <a class="smoothScroll" href="#growth">Growth</a>
+          <%= link_to 'Growth', eighteen_path(:anchor => 'growth'), :class => 'smoothScroll' %>
         </li>
         <li>
-          <a class="smoothScroll" href="#stacey">Stacey</a>
+          <%= link_to 'Stacey', eighteen_path(:anchor => 'stacey'), :class => 'smoothScroll' %>
         </li>
         <li>
-          <a class="smoothScroll" href="#feedback">Feedback</a>
+          <%= link_to 'Feedback', eighteen_path(:anchor => 'feedback'), :class => 'smoothScroll' %>
         </li>
         <li>
-          <a class="smoothScroll" href="#self-assessment">Self-Assessment</a>
+          <%= link_to 'Self-Assessment', eighteen_path(:anchor => 'self-assessment'), :class => 'smoothScroll' %>
         </li>
       </ul>
     </div>
