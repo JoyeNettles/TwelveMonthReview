@@ -19,3 +19,25 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+.wins-background {
+  background-color: mediumpurple;
+  //background: url('eighteen/jttw-hat.png') no-repeat center top;
+  color: white;
+  background-attachment: relative;
+  background-position: center center;
+  height: 100vh;
+  width: 100%;
+  display: table;
+  text-align: center;
+
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
