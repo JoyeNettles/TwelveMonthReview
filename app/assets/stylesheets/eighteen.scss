@@ -122,3 +122,19 @@
   background-size: cover;
   -o-background-size: cover;
 }
+
+
+#eighteen #growth {
+  .full-screen-background-image{
+  background: url(eighteen/baby.png) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+    height: 50vh;
+}
+  p{
+  color: black;
+  text-align: center;
+}
+}
