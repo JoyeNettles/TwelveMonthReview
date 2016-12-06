@@ -353,7 +353,7 @@ input {
 
 @media(min-width:768px) {
 	#f{
-		background: mediumvioletred;
+		/*background: mediumvioletred;*/
 	}
 }
 
